@@ -11,9 +11,7 @@ The infographic is built as a single-page HTML file and deployed via GitHub Page
 
 ## Live Site
 
-[View the infographic here](https://yourusername.github.io/professional-identity)
-
-> Replace the link above with your actual GitHub Pages URL after deployment.
+[View the infographic here](https://jjagger23.github.io/professional-identity/)
 
 ## Contents
 
